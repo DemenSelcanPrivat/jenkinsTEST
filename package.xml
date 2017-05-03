@@ -3,6 +3,7 @@
 	<types>
 		
 	<members>Account.Name</members>
+	<members>Account.Phone</members>
 		<name>CustomField</name>
 	</types>
 	
